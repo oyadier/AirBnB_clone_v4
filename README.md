@@ -158,6 +158,9 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
+Oyadier Robert - [Github](https://github.com/oyadier) / [Twitter] (https://twitter.com/oyadier)
+
+I souly work on the project in the AirBnB_clone_v4. Let's see how it turns out
 
 Second part of Airbnb: Joann Vuong
 ## License
