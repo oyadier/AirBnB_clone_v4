@@ -9,6 +9,6 @@ function init () {
             delete obj_amenity[$(this).attr('data-name')];
         }
         const ame_obj = Object.keys(obj_amenity);
-        $('.amenities h4').text(ame_obj);
+        $('.amenities h4').text(ame_obj.sort().join(', '));
     });
 }
